@@ -1,0 +1,30 @@
+2026-08-27 14:45:21,345 - __main__ - INFO - Starting Numele Magazinului tau Bot...
+2026-08-27 14:45:21,347 - __main__ - INFO - Database backup created: backups\shop_20260827_144521.db
+2026-08-27 14:45:21,368 - __main__ - INFO - Database initialized
+2026-08-27 14:45:21,379 - __main__ - INFO - Numele Magazinului tau Bot started successfully!
+2026-08-27 14:45:21,379 - aiogram.dispatcher - INFO - Start polling
+2026-08-27 14:45:21,550 - aiogram.dispatcher - INFO - Run polling for bot @enzurodev_bot id=8890785191 - 'enzurodevbot'
+2026-08-27 14:46:27,397 - aiogram.event - INFO - Update id=429400850 is handled. Duration 232 ms by bot id=8890785191
+2026-08-27 14:46:37,003 - aiogram.event - INFO - Update id=429400851 is handled. Duration 277 ms by bot id=8890785191
+2026-08-27 14:46:42,063 - aiogram.event - INFO - Update id=429400852 is handled. Duration 140 ms by bot id=8890785191
+2026-08-27 14:46:42,977 - aiogram.event - INFO - Update id=429400853 is handled. Duration 153 ms by bot id=8890785191
+2026-08-27 14:46:44,228 - aiogram.event - INFO - Update id=429400854 is handled. Duration 142 ms by bot id=8890785191
+2026-08-27 14:46:45,078 - aiogram.event - INFO - Update id=429400855 is handled. Duration 156 ms by bot id=8890785191
+2026-08-27 14:46:45,785 - aiogram.event - INFO - Update id=429400856 is handled. Duration 157 ms by bot id=8890785191
+2026-08-27 14:46:49,837 - aiogram.event - INFO - Update id=429400857 is handled. Duration 164 ms by bot id=8890785191
+2026-08-27 14:46:50,760 - aiogram.event - INFO - Update id=429400858 is handled. Duration 183 ms by bot id=8890785191
+2026-08-27 14:46:56,414 - aiogram.event - INFO - Update id=429400859 is handled. Duration 156 ms by bot id=8890785191
+2026-08-27 14:46:57,147 - aiogram.event - INFO - Update id=429400860 is handled. Duration 130 ms by bot id=8890785191
+2026-08-27 14:46:58,203 - aiogram.event - INFO - Update id=429400861 is handled. Duration 133 ms by bot id=8890785191
+2026-08-27 14:46:59,666 - aiogram.event - INFO - Update id=429400862 is handled. Duration 127 ms by bot id=8890785191
+2026-08-27 14:47:27,092 - aiogram.event - INFO - Update id=429400863 is handled. Duration 142 ms by bot id=8890785191
+2026-08-27 14:47:28,237 - aiogram.event - INFO - Update id=429400864 is handled. Duration 123 ms by bot id=8890785191
+2026-08-27 14:47:29,732 - aiogram.event - INFO - Update id=429400865 is handled. Duration 193 ms by bot id=8890785191
+2026-08-27 14:47:31,899 - aiogram.event - INFO - Update id=429400866 is handled. Duration 128 ms by bot id=8890785191
+2026-08-27 14:47:34,176 - aiogram.event - INFO - Update id=429400867 is handled. Duration 149 ms by bot id=8890785191
+2026-08-27 14:47:46,424 - aiogram.event - INFO - Update id=429400868 is handled. Duration 194 ms by bot id=8890785191
+2026-08-27 14:47:48,147 - aiogram.event - INFO - Update id=429400869 is handled. Duration 240 ms by bot id=8890785191
+2026-08-27 14:48:26,879 - aiogram.event - INFO - Update id=429400870 is handled. Duration 135 ms by bot id=8890785191
+2026-08-27 14:48:28,017 - aiogram.event - INFO - Update id=429400871 is handled. Duration 156 ms by bot id=8890785191
+2026-08-27 14:48:29,258 - aiogram.event - INFO - Update id=429400872 is handled. Duration 398 ms by bot id=8890785191
+2026-08-27 14:48:35,231 - aiogram.event - INFO - Update id=429400873 is handled. Duration 150 ms by bot id=8890785191
